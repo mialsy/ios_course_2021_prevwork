@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mialsy/ios_course_2021_prevwork/blob/main/SimpleTipDemo.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mialsy/ios_course_2021_prevwork/blob/main/SimpleTipDemo.gif' width='450px' alt='Video Walkthrough' />
 
 GIF created with [ezgif](https://ezgif.com/).
 
