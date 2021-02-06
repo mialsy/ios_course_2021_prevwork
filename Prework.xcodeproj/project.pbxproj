@@ -85,6 +85,7 @@
 				9971836525CE350300616D0B /* Products */,
 			);
 			sourceTree = "<group>";
+			tabWidth = 3;
 		};
 		9971836525CE350300616D0B /* Products */ = {
 			isa = PBXGroup;
